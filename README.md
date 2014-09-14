@@ -10,10 +10,10 @@ In the original Walockbrawl mod for Warcraft 3 there are a bunch of spells, but 
 Spells:
 ==================
 
-Fireball
-Blink
-Lightning
-Melee Push
+* Fireball
+* Blink
+* Lightning
+* Melee Push
 
 ==================
 
